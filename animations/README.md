@@ -1,6 +1,6 @@
 # Example animations of DNA replication model
 
-The SPB=mediated variant was simulated for a randomly selected genome structure. 
+The SPB-mediated variant was simulated for a randomly selected genome structure. 
 
 Dots correspond to origins, with the dot color indicating firing time (red: early firing, green: late firing). Passively replicated origins are not shown for simplicity.
 
