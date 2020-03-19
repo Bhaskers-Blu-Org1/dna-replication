@@ -1,0 +1,137 @@
+Sender: LSF System <lsfadmin@zhcc020>
+Subject: Job 400970: </u/amp/simulations/runA_uni/run.sh> in cluster <ZHC2clusterLSF> Done
+
+Job </u/amp/simulations/runA_uni/run.sh> was submitted from host <zhcc026> by user <amp> in cluster <ZHC2clusterLSF>.
+Job was executed on host(s) <19*zhcc020>, in queue <prod.long>, as user <amp> in cluster <ZHC2clusterLSF>.
+                            <16*zhcc014>
+                            <19*zhcc009>
+                            <19*zhcc012>
+                            <19*zhcc010>
+                            <19*zhcc016>
+                            <16*zhcc013>
+                            <1*zhcc011>
+</u/amp> was used as the home directory.
+</u/amp/simulations/runA_uni> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/u/amp/simulations/runA_uni/run.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   491.91 sec.
+    Max Memory :                                 374 MB
+    Average Memory :                             162.33 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   2 MB
+    Max Processes :                              26
+    Max Threads :                                66
+    Run time :                                   153 sec.
+    Turnaround time :                            33146 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file </u/amp/simulations/runA_uni/lsferr> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@zhcc010>
+Subject: Job 402108: </u/amp/simulations/runA_uni/run.sh> in cluster <ZHC2clusterLSF> Done
+
+Job </u/amp/simulations/runA_uni/run.sh> was submitted from host <zhcc026> by user <amp> in cluster <ZHC2clusterLSF>.
+Job was executed on host(s) <4*zhcc010>, in queue <prod.long>, as user <amp> in cluster <ZHC2clusterLSF>.
+                            <16*zhcc011>
+                            <16*zhcc013>
+                            <16*zhcc009>
+                            <16*zhcc012>
+                            <16*zhcc019>
+                            <16*zhcc020>
+                            <16*zhcc016>
+                            <12*zhcc014>
+</u/amp> was used as the home directory.
+</u/amp/simulations/runA_uni> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/u/amp/simulations/runA_uni/run.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   0.48 sec.
+    Max Memory :                                 -
+    Average Memory :                             -
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              -
+    Max Threads :                                -
+    Run time :                                   6 sec.
+    Turnaround time :                            3 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file </u/amp/simulations/runA_uni/lsferr> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@zhcc010>
+Subject: Job 402162: </u/amp/simulations/runA_uni/run.sh> in cluster <ZHC2clusterLSF> Done
+
+Job </u/amp/simulations/runA_uni/run.sh> was submitted from host <zhcc026> by user <amp> in cluster <ZHC2clusterLSF>.
+Job was executed on host(s) <4*zhcc010>, in queue <prod.long>, as user <amp> in cluster <ZHC2clusterLSF>.
+                            <16*zhcc011>
+                            <16*zhcc019>
+                            <16*zhcc009>
+                            <16*zhcc016>
+                            <16*zhcc020>
+                            <16*zhcc012>
+                            <16*zhcc015>
+                            <12*zhcc013>
+</u/amp> was used as the home directory.
+</u/amp/simulations/runA_uni> was used as the working directory.
+Started at Results reported on 
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/u/amp/simulations/runA_uni/run.sh
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   3498281.00 sec.
+    Max Memory :                                 9109 MB
+    Average Memory :                             6341.26 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   154 MB
+    Max Processes :                              140
+    Max Threads :                                425
+    Run time :                                   29749 sec.
+    Turnaround time :                            29748 sec.
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file </u/amp/simulations/runA_uni/lsferr> for stderr output of this job.
+
